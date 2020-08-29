@@ -1,2 +1,2 @@
 # Recipes
-Repository for working recipes
+This is a repository for recipes.
