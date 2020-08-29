@@ -29,7 +29,7 @@ Turkey meatballs with tomato sauce
 
 # Method:
 1. Mince the onion and the garlic cloves
-2. In a mixing bowl, combi.e. all except ingredients "For the tomato sauce" and in the "Other" subchapters)ine all ingredients **For the meatballs**.
+2. In a mixing bowl, combine all ingredients **For the meatballs**.
 3. With your hands, a couple of spoons or an ice cream scoop, make the meatballs and place them on a plate.
 4. In a pan large enough so that the meatballs don't touch each other, heat the canola oil.
 5. When the pan is hot, add the meatballs one by one.
