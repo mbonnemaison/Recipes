@@ -18,7 +18,8 @@ This recipe makes 4 flans.*
 # Other material needed:
 - 4 ramkins
 - an oven-proof container large enough to contain the ramkins and 1 inch of water
-- hot water
+- hot water (kettle or pan)
+- Range
 
 
 # Method
@@ -30,7 +31,8 @@ This recipe makes 4 flans.*
 6. While the milk is warming up, mix the sugar with the eggs
 7. When the milk starts boiling, add the chocolate little by little into the milk while stirring consistently.
 8. Once the chocolate is nicely mixed with the milk and vanilla extract, add on top of the eggs/sugar while stirring consistently.
-9. Divide the preparation evenly between the 4 ramkins
+9. Divide the preparation evenly between the 4 ramkins.
+10. Add the hot water in the larger container.
 10. Place the flans in the oven for 1 hour
 11. Let the flans cool down at room temperature then cover them (with Saran Wrap if no cover) and place in fridge.
 12. Flans are good for 3 to 5 days in the fridge.
