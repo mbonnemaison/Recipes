@@ -1,5 +1,10 @@
 Turkey meatballs with tomato sauce
 ===============================
+# Time
+Preparation time: 45 minutes
+Cooking time: 1 hour
+Total time: 1 hour and 45 minutes
+
 # Ingredients
 
 ## For the meatballs:
