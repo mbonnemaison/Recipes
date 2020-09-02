@@ -1,4 +1,4 @@
-Chocolate flan
+Chocolate flans
 =================
 *The flans cook in a bain-marie.
 This recipe makes 4 flans.*
