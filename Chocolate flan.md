@@ -24,7 +24,7 @@ This recipe makes 4 flans.*
 
 # Method
 1. Shred the chocolate
-2. Preheat the oven at 300&degF (350&degC)
+2. Preheat the oven at 300&deg;F (150&deg;C)
 3. Start boiling water in a kettle or a pan.
 4. Prepare 4 ramkins in the large container
 5. Heat the milk with the vanilla extract
