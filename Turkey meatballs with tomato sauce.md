@@ -1,9 +1,11 @@
 Turkey meatballs with tomato sauce
 ===============================
+*This recipe makes about 18 meatballs, 1 inch in diameter.*
+
 # Time
-Preparation time: 45 minutes
-Cooking time: 1 hour
-Total time: 1 hour and 45 minutes
+- Preparation time: 45 minutes
+- Cooking time: 1 hour
+- Total time: 1 hour and 45 minutes
 
 # Ingredients
 
@@ -54,3 +56,4 @@ Total time: 1 hour and 45 minutes
 1. I used dried herbs, but would probably be more tasty with fresh herbs.
 2. It worked great with premade tomato sauce from a jar.
 3. This dish can be prepared in advance and reheated in the microwave when needed.
+4. Does this dish taste as yummy without the bread crums?
