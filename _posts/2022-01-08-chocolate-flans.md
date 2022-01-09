@@ -1,5 +1,8 @@
-Chocolate flans
-=================
+---
+title: Chocolate flans
+date: 2022-01-08
+---
+
 *The flans cook in a bain-marie.
 This recipe makes 4 flans.*
 

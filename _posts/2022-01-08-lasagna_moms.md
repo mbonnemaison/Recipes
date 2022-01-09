@@ -1,5 +1,9 @@
-Lasagna (Mom's version)
-===============================
+---
+title: Lasagna (Mom's version)
+date: 2022-01-08
+---
+
+
 *This recipe makes enough lasagna to feed 4 people*
   
 # Time

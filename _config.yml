@@ -1,0 +1,6 @@
+remote_theme: fongandrew/hydeout
+title: Mathilde's recipes
+description: Healthy & Delicious
+permalink: /:name
+plugins:
+  - jekyll-redirect-from
