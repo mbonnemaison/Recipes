@@ -14,8 +14,8 @@ I plan to learn programming on my spare time & I wish to write some programs tha
 2. Select recipes with defined filters (*e.g.* preparation time) 
 3. Generate grocery list based on future recipes
 
-### Let's connect!
-[![GitHub](assets/images/github.png){: .left-icon}GitHub](https://github.com/mbonnemaison/Recipes)
+### Access to the GitHab page
+ [GitHub page](https://mbonnemaison.github.io/Recipes/)
 
 ### How to run the site locally
 
