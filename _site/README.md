@@ -1,14 +1,21 @@
-# Adelego GitHub Page
+# Mathilde's recipes GitHub Page
 
-**Adelego** is a project created to help dependent people live longer and more safely at home & to improve the assistance caregivers can provide.
+**Mathilde's recipes** is a project created that combines cooking and coding.
 
-We created a [GitHub page](https://mbonnemaison.github.io/adelego/) with more information on the project and our vision.
+### Cooking objectives
+1. Cook healthy & delicious meals on a regular basis
+2. Figure out what groceries to get more efficiently
+3. Figure out how much time each meal takes to prepare
+4. Being able to check my recipes from anywhere 
+ 
+### Coding objectives
+I plan to learn programming on my spare time & I wish to write some programs that I could directly use from the Github page
+1. Convert units (*e.g.* Celsius to Fahrenheit)
+2. Select recipes with defined filters (*e.g.* preparation time) 
+3. Generate grocery list based on future recipes
 
-### Let's work & chat together
-
-If you want to develop this project with us, please check [our code](https://github.com/mbonnemaison/adelego/tree/master)! We're new at programming and would love your input!
-
-If you have thoughts/ideas/suggestions on the project, feel free to contact us on [GitHub](https://github.com/mbonnemaison).
+### Access to the GitHab page
+ [GitHub page](https://mbonnemaison.github.io/Recipes/)
 
 ### How to run the site locally
 
