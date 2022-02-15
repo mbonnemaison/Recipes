@@ -75,6 +75,7 @@ $ bundle exec jekyll serve
 
 View the site in a browser at <http://localhost:4000>.
 
+
 ## Developing the site
 
 This site uses the [Hydeout](https://fongandrew.github.io/hydeout/) theme. Most of the site's structure and style come from the theme.
